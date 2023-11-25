@@ -10,6 +10,7 @@ menu:
 - {name: 'Über uns', url: 'company'}
 - {name: 'Maschinenpark', url: 'tools'}
 - {name: 'Projekte', url: 'documentation'}
+- {name: 'Verkauf', url: 'sales'}
 - {name: 'Impressum', url: 'imprint'}
 - {name: 'Kontakt', url: 'contact'}
 
