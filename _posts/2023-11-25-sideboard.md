@@ -17,8 +17,8 @@ Für weitere Informationen oder ein persönliches Angebot, kontaktieren Sie uns 
 
 
 Sideboard Sydney:
-![sideboard_1]({{ site.github.url }}/assets/img/tisch_1.jpg)
-![sideboard_2]({{ site.github.url }}/assets/img/stehtisch_1.jpg)
+![sideboard_1]({{ site.github.url }}/assets/img/sideboard_1.jpg)
+![sideboard_2]({{ site.github.url }}/assets/img/sideboard_2.jpg)
 
 Länge:  1,80m  - 2,20m
 
