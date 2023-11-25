@@ -8,7 +8,7 @@ google-ID: '' # Example: 'UA-112060364-2'
 
 menu:
 - {name: 'Über uns', url: 'company'}
-- - {name: 'Maschinenpark', url: 'tools'}
+- {name: 'Maschinenpark', url: 'tools'}
 - {name: 'Projekte', url: 'documentation'}
 - {name: 'Impressumg', url: 'imprint'}
 - {name: 'Kontakt', url: 'contact'}
