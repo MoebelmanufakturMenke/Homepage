@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Hallo zusammen, mein Name ist Lars Menke und ich freue mich, dass Sie den Weg zu meiner Webseite gefunden haben.
+Ich hoffe sehr, dass Ihnen die Produkte / Dienstleistungen zusagen, welche wir als Möbelmanufaktur Menke Ihnen anbieten können.
+Bei Fragen kommen Sie gerne auf uns zu, die Kontaktdaten finden Sie im Reiter "Kontakt".
+
+Wir Freue uns, von Ihnen zu hören.
