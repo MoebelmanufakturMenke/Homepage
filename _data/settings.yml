@@ -10,7 +10,7 @@ menu:
 - {name: 'Über uns', url: 'company'}
 - {name: 'Maschinenpark', url: 'tools'}
 - {name: 'Projekte', url: 'documentation'}
-- {name: 'Impressumg', url: 'imprint'}
+- {name: 'Impressum', url: 'imprint'}
 - {name: 'Kontakt', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
