@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/company</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/tools</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/documentation</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/sales</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/imprint</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://moebelmanufaktur-menke.com/contact</loc>
+        <lastmod>2023-11-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+</urlset>
