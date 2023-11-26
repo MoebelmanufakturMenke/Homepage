@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unsere Besonderen-Möbelstücke"
+title: "Besonderheiten"
 author: "Lars Menke"
 categories: documentation
 tags: [documentation]
