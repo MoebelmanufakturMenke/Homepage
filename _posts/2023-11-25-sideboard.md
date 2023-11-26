@@ -31,8 +31,3 @@ Preisrange: ~ 1899€ - 2499€
 
 Der Text folgt noch
 
-
-
-
-Gegebenenfalls sind folgende Artikel ebenfalls für Sie interessant:
-

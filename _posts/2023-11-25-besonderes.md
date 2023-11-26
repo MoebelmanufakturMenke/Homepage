@@ -14,9 +14,3 @@ Die hochwertig verbauten Echtholzpanele und die hochwertigen Beschläge machen d
 
 ![shishaschrank_1]({{ site.github.url }}/assets/img/shishaschrank_1.jpg)
 
-
-
-
-
-
-Gegebenenfalls sind folgende Artikel ebenfalls für Sie interessant:
