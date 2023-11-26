@@ -10,10 +10,17 @@
   font-size:0.8rem;
 }
 .featured-image img {
-  align: middle;
-  margin: 5px auto 25px;
+  // Original:
+  // align: middle;
+  // margin: 5px auto 25px;
+  // display: block;
+  // max-width: 600px;
+  // Geändert:
   display: block;
-  max-width: 600px;
+  margin: 5px auto 25px;
+  width: 100%;
+  height: auto;
+  object-fit: contain; // oder 'cover', je nachdem, wie das Bild angezeigt werden soll
 }
 @media (max-width: $container-width) {
   .post-content {
