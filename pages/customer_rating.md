@@ -4,7 +4,7 @@ title: Kundenbewertungen
 permalink: /customer_rating
 ---
 
-Vinner Schaf xxxx:
+Vinner-Schaf-79:
 "Vielen Dank für das tolle Bettgestell, es sieht nicht nur toll aus, sondern ist auch noch sehr stabil :D."
 
 ![Blickwinkel oben]({{ site.github.url }}/assets/img/vs_01.jpg)
