@@ -35,11 +35,9 @@
 .menu-link {
   padding: 5px 10px;
 }
-
 /*
   Responsiveness with a dropdown menu
 */
-
 @media (min-width: $container-width) {
   .dropbtn {
     display: none;
