@@ -5,6 +5,8 @@
   background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
+  background-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
 }
 @media (max-width: $container-width) {
   .site-header {
