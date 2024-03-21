@@ -11,6 +11,7 @@ menu:
 - {name: 'Maschinenpark', url: 'tools'}
 - {name: 'Projekte', url: 'documentation'}
 - {name: 'Verkauf', url: 'sales'}
+- {name: 'Kundenbewertungen', url: 'customer_rating'}
 - {name: 'Impressum', url: 'imprint'}
 - {name: 'Kontakt', url: 'contact'}
 
