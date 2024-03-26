@@ -17,7 +17,7 @@ Für weitere Informationen oder ein persönliches Angebot, kontaktieren Sie uns 
 
 
 Ordnerschrank Paris:
-![ordnerschrank_paris_1]({{ site.github.url }}/assets/img/tisch_1.jpg)
+![ordnerschrank_paris_1]({{ site.github.url }}/assets/img/ordnerschrank_paris_1.jpg)
 Länge:  0,98m 
 
 Breite: 0,55m
@@ -31,5 +31,5 @@ Die Verwendungszwecke für diesen Ordnerschrank sind vielseitig. Er kann an vers
 Die verwendeten Holzarten lassen sich hierbei natürlich variieren.
 Wie alle Stücke in unserem Haus, ist auch dieser mit einem hochqualitativen Öl behandelt, welches die Holzfarbe und -struktur hervorhebt und schützt.
 
-![ordnerschrank_paris_2]({{ site.github.url }}/assets/img/tisch_1.jpg)
-![ordnerschrank_paris_3]({{ site.github.url }}/assets/img/tisch_1.jpg)
+![ordnerschrank_paris_2]({{ site.github.url }}/assets/img/ordnerschrank_paris_2.jpg)
+![ordnerschrank_paris_3]({{ site.github.url }}/assets/img/ordnerschrank_paris_3.jpg)
