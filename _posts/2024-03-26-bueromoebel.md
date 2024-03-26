@@ -4,7 +4,7 @@ title: "Büromöbel"
 author: "Lars Menke"
 categories: documentation
 tags: [documentation]
-image: table_skizze.jpg
+image: buerotisch_skizze.jpg
 ---
 
 In diesem Artikel möchten wir Ihnen ein Beispiel zu unserem neuesten Ordnerschrank aufzeigen.
